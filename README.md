@@ -109,6 +109,16 @@ flutter devices
 flutter run -d <device_id>
 ```
 
+### Download APK
+
+File APK release tersedia di root repository:
+
+```text
+Tugasku-release.apk
+```
+
+Jika membuka repository melalui GitHub, pilih file `Tugasku-release.apk`, lalu klik tombol download untuk menyimpan APK ke perangkat.
+
 ### Cara Build APK
 
 Untuk membuat file APK release:
@@ -246,6 +256,16 @@ To select a specific device:
 flutter devices
 flutter run -d <device_id>
 ```
+
+### Download APK
+
+The release APK file is available in the repository root:
+
+```text
+Tugasku-release.apk
+```
+
+When opening the repository on GitHub, select the `Tugasku-release.apk` file, then click the download button to save the APK to your device.
 
 ### How to Build APK
 
